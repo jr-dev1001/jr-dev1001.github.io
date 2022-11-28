@@ -10,7 +10,7 @@ published: true
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -18,7 +18,7 @@ published: true
 
 - 📫 How to reach me **vamsisurakarapu@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games .**
 
 ## 🚀 Languages and Tools:
 
@@ -47,6 +47,6 @@ published: true
 
 <a href = "https://www.linkedin.com/in/vamsi-surakarapu-46816201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/JrDev1001"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.hackerrank.com/n170299"><img src="https://img.icons8.com/color/48/000000/hackerrank.png"/></a>
+<a href = "https://www.hackerrank.com/n170299"><img src="https://img.icons8.com/color/48/000000/unknown.png"/></a>
 
 </p>

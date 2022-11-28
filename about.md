@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+Currently I'm a CS under Grad from IIIT Nuzvid...<br>
+I have completed my matriculation from Kendriya Vidyalaya Guntur...<br>
 
-I like exploring new technologies in different domains and areas.<br>
-I love kind of coding where i can experience the reality...
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I like exploring new technologies in different domains and areas.<br>
+I love kind of coding where i can experience the reality...
 
 ### Contact me
 

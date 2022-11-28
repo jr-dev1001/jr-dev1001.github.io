@@ -42,11 +42,11 @@ published: true
 </p>
 
 
-## Connect with me:
-<p align="left">
+## Experience:
 
-<a href = "https://www.linkedin.com/in/vamsi-surakarapu-46816201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JrDev1001"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.hackerrank.com/n170299"><img src="https://img.icons8.com/color/48/000000/unknown.png"/></a>
-
-</p>
+- Software Engineer Trainee
+- - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat<img src="https://www.strawhat.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d2560af1.png&w=64&q=75" alt='.' width="20" height="20"></a><br>
+    from March 2022 to July 2022
+- Web Development Intern
+- - As a new Intern worked on Frontend web application , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com <img src="https://meebuddy.com/assets/img/brand/meebuddy_logo.png" alt='.' width="20" height="20"></a><br>
+   from September 2021 to December 2021

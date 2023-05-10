@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Currently I'm a CS under Grad from IIIT Nuzvid...<br>
+I have graduated from IIIT Nuzvid in CS...<br>
 I have completed my matriculation from Kendriya Vidyalaya Guntur...<br>
 
 

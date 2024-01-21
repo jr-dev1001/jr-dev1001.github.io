@@ -45,11 +45,11 @@ published: true
 ## Experience:
 
 - Software Developer Intern
-- - I have worked on Ionic,AWS and machine learning algorithms as Software Developer Intern at <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub<img src="http://tinyurl.com/yy4knjnh" alt='.' width="20" height="20"></a><br>
+- - I have worked on Ionic,AWS and machine learning algorithms as Software Developer Intern at <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
     from January 2022 to July 2022
 - Software Engineer Trainee
-- - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat<img src="https://www.strawhat.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d2560af1.png&w=64&q=75" alt='.' width="20" height="20"></a><br>
+- - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat</a><br>
     from January 2022 to July 2022
 - Web Development Intern
-- - As a new Intern worked on Frontend web application , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com <img src="https://meebuddy.com/assets/img/brand/meebuddy_logo.png" alt='.' width="20" height="20"></a><br>
+- - As a new Intern worked on Frontend web application , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com</a><br>
    from September 2021 to December 2021

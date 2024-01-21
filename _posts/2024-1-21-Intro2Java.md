@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running Java!
+title: You're up and now time to Java!
 published: true
 ---
 

@@ -5,20 +5,20 @@ published: true
 ---
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a **Tech Enthusiast** from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **vamsisurakarapu@gmail.com**
 
-- ⚡ Fun fact **I play games .**
+- ⚡ At free times **Watching anime & playing video games .**
 
 ## 🚀 Languages and Tools:
 
@@ -44,9 +44,12 @@ published: true
 
 ## Experience:
 
+- Software Developer Intern
+- - I have worked on Ionic,AWS and machine learning algorithms as Software Developer Intern at <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub<img src="http://tinyurl.com/yy4knjnh" alt='.' width="20" height="20"></a><br>
+    from January 2022 to July 2022
 - Software Engineer Trainee
 - - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat<img src="https://www.strawhat.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d2560af1.png&w=64&q=75" alt='.' width="20" height="20"></a><br>
-    from March 2022 to July 2022
+    from January 2022 to July 2022
 - Web Development Intern
 - - As a new Intern worked on Frontend web application , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com <img src="https://meebuddy.com/assets/img/brand/meebuddy_logo.png" alt='.' width="20" height="20"></a><br>
    from September 2021 to December 2021

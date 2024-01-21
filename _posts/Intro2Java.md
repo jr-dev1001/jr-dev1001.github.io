@@ -1,3 +1,9 @@
+---
+layout: post
+title: You're up and running Java!
+published: true
+---
+
 # Exploring Java Fundamentals: A Comprehensive Guide
 
 ## Introduction

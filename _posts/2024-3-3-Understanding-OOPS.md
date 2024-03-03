@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaning OOPS!
+title: Learning OOPS!
 published: true
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Exploring Java Fundamentals: Part 2</h1>

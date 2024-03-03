@@ -1,12 +1,20 @@
+---
+layout: post
+title: Leaning OOPS!
+published: true
+---
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Exploring Java Fundamentals: Part 2</h1>
+
+"Innovation happens in the darndest places, and when you think it’s just a fad is often when it’s just about to change the world." - James Gosling
+<div style="text-align:center;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/330px-James_Gosling_2008.jpg" alt="James Gosling">
+</div>
+
 # Understanding Object-Oriented Programming (OOPS) in Java
 
 Hey there! Today, we're going to learn an important topic which is Object-Oriented Programming (OOPS) in Java.
 But before we get started, let me ask you a question: Have you ever seen a car, a building, or a mobile phone? Of course, you have! Well, guess what? 
 These everyday objects can actually help us understand the concept of OOPS in Java.
-
- <div style="text-align:center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png" alt="Java logo">
-</div>
 
 ## What is Object-Oriented Programming (OOPS)?
 
@@ -94,13 +102,6 @@ public class MobilePhone {
 ## Closing:
 
 In the upcoming blog, we'll delve into OOPs topics individually, exploring each one in detail. Happy Learning!
-<div style="text-align:center;">
+<div style="align:center;">
     <img src="https://github.com/jr-dev1001/jr-dev1001.github.io/assets/85192850/eec54eff-6afc-4e6c-8334-0fbf92b5ed08" alt="CatWorkGIF">
-</div>
-
-
-
-"Innovation happens in the darndest places, and when you think it’s just a fad is often when it’s just about to change the world." - James Gosling
-<div style="text-align:center;"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/330px-James_Gosling_2008.jpg" alt="James Gosling">
 </div>

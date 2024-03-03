@@ -44,7 +44,7 @@ published: true
 
 ## Experience:
 
--Associate Software Developer
+- Associate Software Developer
     - - Contributed to POC applications and conducted research in a dynamic environment.
     - - Contributed for building customized LLMs.
     - - Created engaging Web AR games with Unity.

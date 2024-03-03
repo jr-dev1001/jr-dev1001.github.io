@@ -8,9 +8,6 @@ I have completed my matriculation from Kendriya Vidyalaya Guntur...<br>
 
 
 ### More Information
-I like exploring new technologies in different domains and areas.<br>
-I love kind of coding where i can experience the reality...
-
-### Contact me
-
-[vamsisurakarapu@gmail.com](mailto:vamsisurakarapu@gmail.com)
+- exploring new technologies in different domains and areas.<br>
+- Love kind of coding where i can experience the reality...
+- Hobbies: Watching Anime and documentries

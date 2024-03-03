@@ -45,19 +45,19 @@ published: true
 ## Experience:
 
 -Associate Software Developer
-- - Contributed to POC applications and conducted research in a dynamic environment.
-- - Contributed for building customized LLMs.
-- - Created engaging Web AR games with Unity.
-- - Developed POC architectures.
-- - At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
-    from April 2023 - Present.
+    -- Contributed to POC applications and conducted research in a dynamic environment.
+    -- Contributed for building customized LLMs.
+    -- Created engaging Web AR games with Unity.
+    -- Developed POC architectures.
+    -- At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
+        from April 2023 - Present.
 - Software Developer Intern
-- - Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.
-- - At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
-    from October 2022 to April 2023
+    -- Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.Innovatively crafted an Ionic              application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.
+    -- At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
+        from October 2022 to April 2023
 - Software Engineer Trainee
-- - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat</a><br>
-    from January 2022 to July 2022
+    -- I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat</a><br>
+        from January 2022 to July 2022
 - Web Development Intern
-- - As a new Intern worked on Frontend web development , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com</a><br>
-   from September 2021 to December 2021
+    -- As a new Intern worked on Frontend web development , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com</a><br>
+       from September 2021 to December 2021

@@ -107,11 +107,13 @@ Functions (or methods) are blocks of code that perform a specific task. They all
 public int add(int a, int b) {
     return a + b;
 }
-```
-In the upcoming blog, we'll learn OOPs concepts in day to day lives. Happy Learning!
-
 // Static function with no return type
 public static void printMessage(String message) {
     System.out.println(message);
 }
 ```
+
+## In Next
+In the upcoming blog, we'll learn OOPs concepts in day to day lives. Happy Learning!
+
+

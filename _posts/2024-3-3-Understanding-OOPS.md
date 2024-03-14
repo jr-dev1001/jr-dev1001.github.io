@@ -99,7 +99,7 @@ public class MobilePhone {
 }
 ```
 
-## Closing:
+## In Next
 
 In the upcoming blog, we'll delve into OOPs topics individually, exploring each one in detail. Happy Learning!
 <div style="align:center;">

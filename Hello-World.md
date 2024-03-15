@@ -3,7 +3,7 @@ layout: page
 title: Hello-World
 permalink: /Hello-World/
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vamsi Surakarapu</h1>
 <h3 align="center">I'm a Computer Whiz from India.</h3>
 
 

@@ -36,9 +36,10 @@ permalink: /Hello-World/
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
 <a href="https://angular.io/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"width="40" height="40" alt="Angular"/> </a>
     <a href="https://solana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png"alt="Solona"width="40" height="40"/> </a> 
+</p>
+
 
 ## Experience:
 

@@ -1,10 +1,5 @@
----
-layout: post
-title: You're up and running!
----
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi</h1>
-<h3 align="center">I'm a **Tech Enthusiast** from India.</h3>
+<h3 align="center">I'm a Tech Enthusiast from India.</h3>
 
 
 ## 🙋‍♂️ About Me

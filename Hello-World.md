@@ -17,7 +17,10 @@ permalink: /Hello-World/
 
 - 📫 How to reach me **vamsisurakarapu@gmail.com**
 
-- ⚡ At free times **Watching anime & playing video games .**
+- ⚡ At free times **Watching anime, documentries & playing video games .**
+  
+- 😍 Like **exploring new technologies in different domains and areas.**
+
 
 ## 🚀 Languages and Tools:
 
@@ -60,3 +63,9 @@ permalink: /Hello-World/
 - Web Development Intern
     - - As a new Intern worked on Frontend web development , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com</a><br>
        from September 2021 to December 2021
+
+## Education
+
+2023 Graduated from IIIT Nuzvid in CS - 8.6 CGPA...<br>
+2017 Completed matriculation from Kendriya Vidyalaya - 10 CGPA...<br>
+

@@ -14,9 +14,9 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
-    <!-- Dark theme styles -->
     <style>
-      body {
+      /* Dark theme styles */
+      body.dark-theme {
         background-color: #222; /* Dark background color */
         color: #fff; /* Light text color */
       }
@@ -26,8 +26,8 @@
       .masthead {
         border-bottom: 1px solid #444; /* Darker border for header */
       }
-      .site-name a, nav a {
-        color: #fff; /* Light text color for site name and navigation links */
+      .site-name a, nav a, #theme-toggle {
+        color: #fff; /* Light text color for site name, navigation links, and theme toggle button */
       }
       .site-description {
         color: #ccc; /* Medium-light text color for site description */
@@ -40,7 +40,6 @@
         margin: 0 auto; /* Center content container */
         padding: 20px; /* Add padding to content container */
       }
-      /* Additional styles can be added as needed */
     </style>
   </head>
 
@@ -58,6 +57,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            <button id="theme-toggle">Toggle Theme</button>
           </nav>
         </header>
       </div>
@@ -76,5 +76,36 @@
     </div>
 
     {% include analytics.html %}
+
+    <script>
+      // Function to toggle between dark and light themes
+      function toggleTheme() {
+        const body = document.body;
+        body.classList.toggle('dark-theme');
+
+        // Check if dark theme is enabled
+        const isDarkTheme = body.classList.contains('dark-theme');
+
+        // Set appropriate text and background color for the toggle button
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        themeToggleBtn.textContent = isDarkTheme ? 'Light Theme' : 'Dark Theme';
+        themeToggleBtn.style.backgroundColor = isDarkTheme ? '#fff' : '#333';
+        themeToggleBtn.style.color = isDarkTheme ? '#333' : '#fff';
+
+        // Save the current theme preference to localStorage
+        localStorage.setItem('theme', isDarkTheme ? 'dark' : 'light');
+      }
+
+      // Add event listener to the theme toggle button
+      document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+      // Check if there's a theme preference saved in localStorage
+      const savedTheme = localStorage.getItem('theme');
+
+      // Apply the saved theme preference on page load
+      if (savedTheme === 'dark') {
+        toggleTheme(); // Toggle to dark theme
+      }
+    </script>
   </body>
 </html>

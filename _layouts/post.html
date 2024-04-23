@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1 id="theme-heading" style="color: #333;">{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}
@@ -16,34 +16,38 @@ layout: default
   // Function to toggle between dark and light themes
   function toggleTheme() {
     const body = document.body;
+    const themeToggleBtn = document.getElementById('theme-toggle');
+
+    // Toggle the dark-theme class on the body
     body.classList.toggle('dark-theme');
 
     // Check if dark theme is enabled
     const isDarkTheme = body.classList.contains('dark-theme');
 
-    // Set appropriate text and background color for the toggle button
-    const themeToggleBtn = document.getElementById('theme-toggle');
+    // Update the theme toggle button text and colors
     themeToggleBtn.textContent = isDarkTheme ? 'Light Theme' : 'Dark Theme';
     themeToggleBtn.style.backgroundColor = isDarkTheme ? '#fff' : '#333';
     themeToggleBtn.style.color = isDarkTheme ? '#333' : '#fff';
 
+    // Update the heading and its font color based on the theme
+    const heading = document.getElementById('theme-heading');
+    heading.textContent = isDarkTheme ? 'Dark Theme Activated' : 'Light Theme Activated';
+    heading.style.color = isDarkTheme ? '#fff' : '#333';
+
     // Save the current theme preference to localStorage
     localStorage.setItem('theme', isDarkTheme ? 'dark' : 'light');
-
-    // Update the heading based on the theme
-    const heading = document.querySelector('.post h1');
-    heading.textContent = isDarkTheme ? 'Dark Theme Activated' : 'Light Theme Activated';
   }
 
   // Add event listener to the theme toggle button
   document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
 
-  // Check if there's a theme preference saved in localStorage
-  const savedTheme = localStorage.getItem('theme');
-
   // Apply the saved theme preference on page load
-  if (savedTheme === 'dark') {
-    toggleTheme(); // Toggle to dark theme
-  }
+  window.onload = function() {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      toggleTheme(); // Toggle to dark theme
+    }
+  };
 </script>
+
 

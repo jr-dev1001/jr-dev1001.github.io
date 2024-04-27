@@ -7,7 +7,7 @@ published: true
 
 “Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs
 <div style="text-align:center;"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steve_Jobs_WWDC07.jpg/1200px-Steve_Jobs_WWDC07.jpg" alt="Steve Jobs">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steve_Jobs_WWDC07.jpg/1200px-Steve_Jobs_WWDC07.jpg" width=500px height=500px "alt="Steve Jobs">
 </div>
 
 # Overview

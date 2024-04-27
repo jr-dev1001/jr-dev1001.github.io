@@ -180,9 +180,9 @@ public class Calculator {
 
 And there you have it! We've explored the basics of OOP in Java. Keep experimenting and practicing to solidify your understanding. If you have any questions or topics you'd like us to delve into further, feel free to reach out! 🚀
 
-#### sneak peak
+## In Next
 In the next blog we will be learning `interfaces` in java.
 <div style="align:center;">
-    <img src="/images/Blog4_ending.jpg" alt="Chimp learning interface in java">
+    <img src="/images/Blog4_ending.jpg" width="150px" height="150px" alt="Chimp learning interface in java">
 </div>
 

@@ -4,8 +4,11 @@ title: OOPS in Deep!
 published: true
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there! Let's Dive Deep into OOP with Java 🚀</h1>
+<h3 align="center">DIVE IN 🏊‍♂️</h3>
 
-<h3> 🏊‍♂️</h3>
+
+##
+
 “Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs
 <div style="text-align:center;"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steve_Jobs_WWDC07.jpg/1200px-Steve_Jobs_WWDC07.jpg" width=500px height=500px "alt="Steve Jobs">

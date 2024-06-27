@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Dive Deep 🏊‍♂️ into OOPS with Java 🚀
+title: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Dive Deep 🏊‍♂️ into OOPS with Java 🚀
 published: true
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there! Let's Dive Deep 🏊‍♂️ into OOP with Java 🚀</h1>
-
 
 ##
 

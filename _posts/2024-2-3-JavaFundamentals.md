@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Learning Fundamentals!
+title: Learning Java Fundamentals 🔤!
 published: true
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Java Fundamentals</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Java Fundamentals 🔤</h1>
 
 In this Blog we'll briefly learn about variables, datatypes, conditional statements, loops and functions in Java.
 

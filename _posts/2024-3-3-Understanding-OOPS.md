@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Learning OOPS!
+title: Exploring Java Fundamentals Part 2 🔢!
 published: true
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Exploring Java Fundamentals: Part 2</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Exploring Java Fundamentals: Part 2 🔢</h1>
 
 "Innovation happens in the darndest places, and when you think it’s just a fad is often when it’s just about to change the world." - James Gosling
 <div style="text-align:center;"> 

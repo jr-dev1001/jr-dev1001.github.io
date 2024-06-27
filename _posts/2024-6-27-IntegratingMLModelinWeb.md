@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Integrating Tensorflow custom models in Frontend Applications.
+title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
 published: true
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's learn Converting and Integrating ML model in Angular</h1>
-<h3 align="center">DIVE IN 🏊‍♂️</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's learn Converting and Integrating 🛠️ ML model in Angular💻</h1>
 
 
 ## Just for Motivation

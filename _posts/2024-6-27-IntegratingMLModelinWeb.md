@@ -5,6 +5,7 @@ published: true
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's learn Converting and Integrating ML model in Angular</h1>
 
+<h3>💻🛠️</h3>
 
 ## Just for Motivation
 "It’s about leveraging AI responsibly and strategically to enhance, not replace, the human elements of our roles." - Rajat Monga

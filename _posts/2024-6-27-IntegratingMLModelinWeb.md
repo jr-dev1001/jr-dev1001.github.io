@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating Tensorflow custom models in Frontend application.
+title: Integrating Tensorflow custom models in Frontend Applications.
 published: true
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's learn Converting and Integrating ML model in Angular</h1>
@@ -63,3 +63,89 @@ After looking into the evaluation we know how to achieve the task (classify cats
 
 # 3. Integrating the model
 
+## using tfjs for json model
+install Tensorflow.js 
+
+```node
+npm i @tensorflow/tfjs
+```
+TensorFlow.js is an open-source hardware-accelerated JavaScript library for training and deploying machine learning models.
+
+1. import tensorflowjs 
+```typescript
+import * as tf from '@tensorflow/tfjs';
+```
+
+2. load the model
+```typescript
+async function loadModel() {
+    const model = await tf.loadLayersModel('path/to/model.json');
+    return model;
+}
+```
+
+3. Preprocess the model
+```typescript
+function preprocessInput(image: HTMLImageElement) {
+    const tensor = tf.browser.fromPixels(image)
+        .resizeNearestNeighbor([168, 244]) // Change size here if necessary
+        .toFloat()
+        .expandDims();
+    return tensor;
+}
+```
+
+4. Make Predictions
+```typescript
+async function makePrediction(image: HTMLImageElement) {
+    const model = await loadModel();
+    const inputTensor = preprocessInput(image);
+    const predictions = model.predict(inputTensor) as tf.Tensor;
+    const results = predictions.dataSync();
+    return results;
+}
+```
+
+## using tfjs-tflite for tflite model
+
+1. Firstly, install tensorflow/tfjs-tflite
+```typescript
+npm i @tensorflow/tfjs-tflite
+```
+
+2. Load the model
+```typescript
+async function loadTFLiteModel() {
+    const model = await tf.loadTFLiteModel('path/to/model.tflite');
+    return model;
+}
+```
+
+3. Preprocess the model input
+```typescript
+function preprocessInputTFLite(image: HTMLImageElement) {
+    const tensor = tf.browser.fromPixels(image)
+        .resizeNearestNeighbor([168, 244]) // Change size here if necessary
+        .toFloat()
+        .expandDims();
+    return tensor;
+}
+```
+
+4. Make Predictions
+```typescript
+async function makePredictionTFLite(image: HTMLImageElement) {
+    const model = await loadTFLiteModel();
+    const inputTensor = preprocessInputTFLite(image);
+    const predictions = model.predict(inputTensor) as tf.Tensor;
+    const results = predictions.dataSync();
+    return results;
+}
+```
+
+Here We Gooo..! By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
+
+Thank you for reading.
+<div style="text-align:center;"> 
+    <img src="/images/CatsNDogs.jpg" height="500px" width="500px">
+</div>

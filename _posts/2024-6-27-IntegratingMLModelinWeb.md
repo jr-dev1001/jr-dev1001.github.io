@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
+title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻 <img src="https://tinyurl.com/3jse9uzx" width="30px">.
 published: true
 ---
 

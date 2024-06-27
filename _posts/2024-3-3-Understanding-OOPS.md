@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Exploring Java Fundamentals Part 2 🔢!
+title: Exploring Java Fundamentals Part 2 🔢! <img src="https://tinyurl.com/3jse9uzx" width="30px">
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hola<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Start Exploring Java Fundamentals A Comprehensive Guide 📖!
+title: Start Exploring Java Fundamentals A Comprehensive Guide 📖! <img src="https://tinyurl.com/3jse9uzx" width="30px">
 published: true
 ---
 <h3 align="center">My first Blog.</h3>

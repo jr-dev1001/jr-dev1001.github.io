@@ -10,7 +10,7 @@ published: true
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steve_Jobs_WWDC07.jpg/1200px-Steve_Jobs_WWDC07.jpg" width=500px height=500px "alt="Steve Jobs">
 </div> -->
 
-# Overview
+## Overview
 
 In our last blog post, we took a broad look at Object-Oriented Programming (OOP) and its significance. Now, we're going to roll up our sleeves and dive into each topic within OOP, using Java as our tool.
 

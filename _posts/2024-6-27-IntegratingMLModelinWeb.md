@@ -5,6 +5,8 @@ published: true
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's learn Converting and Integrating ML model in Angular</h1>
 
+
+## Just for Motivation
 "It’s about leveraging AI responsibly and strategically to enhance, not replace, the human elements of our roles." - Rajat Monga
 
 Building an AI model is one part, for interacting with user we need an interface where the second  part comes up 'Integration' to a forntend application. In this blog will explain how to integrate an AI model to a frontend application (here I'm using Angular but same procedure will followed for everything).

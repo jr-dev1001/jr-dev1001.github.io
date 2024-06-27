@@ -59,6 +59,10 @@ input,shape : 2D array,[168,244] - {What we need to send to the model}
 output : class_name - {what we get from the model}
 preprocessing : image should be converted into 2D array . {what we need to do before sending the input to the model}.
 
+<div style="text-align:center;"> 
+    <img src="/images/CatsNDogs.jpg" height="500px" width="500px">
+</div>
+
 After looking into the evaluation we know how to achieve the task (classify cats and dogs images).
 
 # 3. Integrating the model
@@ -109,7 +113,7 @@ async function makePrediction(image: HTMLImageElement) {
 ## using tfjs-tflite for tflite model
 
 1. Firstly, install tensorflow/tfjs-tflite
-```typescript
+```node
 npm i @tensorflow/tfjs-tflite
 ```
 
@@ -146,6 +150,4 @@ async function makePredictionTFLite(image: HTMLImageElement) {
 Here We Gooo..! By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
 
 Thank you for reading.
-<div style="text-align:center;"> 
-    <img src="/images/CatsNDogs.jpg" height="500px" width="500px">
-</div>
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Dive Deep 🏊‍♂️ into OOPS with Java 🚀
+title: Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Dive Deep 🏊‍♂️ into OOPS with Java 🚀
 published: true
 ---
 

@@ -12,7 +12,7 @@ Building an AI model is one part, for interacting with user we need an interface
 
 ### table of contents
 1. Convertion of custom model
-2. Evaluating model
+2. Evaluating the model
 3. Integrating the model
 
 # 1. Convertion of Model
@@ -27,17 +27,17 @@ I prefer ipynb notebook you can also do it in .py too. For two methods you need 
 !pip install tensorflowjs
 ```
 
-1. Converting model to json:
+- Converting model to json:
 
 converting the model to json file using the following command
 ```python
 !tensorflowjs_converter \
     --input_format keras \
     --output_format tfjs_layers_model \
-    /content/MobileV2_mouth_model.h5 \
+    /content/model.h5 \
     /content/mouth_model
 ```
-2. Converting model to tflite:
+- Converting model to tflite:
 converting the model to tflite file.
 ```python
 import tensorflow as tf
@@ -53,9 +53,9 @@ Refer to (https://www.tensorflow.org/lite/models/convert/convert_models) for mor
 
 Before integrating we need to know about the model functionality .In my understanding there are three things to keep in my mind what is accepatable input and it's shape, what is the expected output and main importantly any preprocessing is required or not.
 
-Let us assume we have a model to classify cats and dogs images. To display this 
-input,shape : 2D array,[168,244] - {What we need to send to the model}
-output : class_name - {what we get from the model}
+Let us assume we have a model to classify cats and dogs images. To display this </br>
+input,shape : 2D array,[168,244] - {What we need to send to the model}</br>
+output : class_name - {what we get from the model}</br>
 preprocessing : image should be converted into 2D array . {what we need to do before sending the input to the model}.
 
 <div style="text-align:center;"> 
@@ -146,7 +146,8 @@ async function makePredictionTFLite(image: HTMLImageElement) {
 }
 ```
 
-Here We Gooo..! By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
+Here We Gooo..! 
+By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
 
 Thank you for reading.
 

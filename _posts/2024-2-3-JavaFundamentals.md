@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Java Fundamentals 🔤! <img src="https://tinyurl.com/3jse9uzx" width="30px">
+title: Learning Java Fundamentals 🔤!
 published: true
 ---
 

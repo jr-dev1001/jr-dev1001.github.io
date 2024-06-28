@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dive Deep 🏊‍♂️ into OOPS with Java 🚀 <img src="https://tinyurl.com/3jse9uzx" width="30px">
+title:  Dive Deep 🏊‍♂️ into OOPS with Java 🚀 
 published: true
 ---
 

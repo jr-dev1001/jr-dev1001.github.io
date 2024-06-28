@@ -11,9 +11,9 @@ permalink: /Hello-World/
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Spring Boot.**
+- 🌱 I’m currently learning on **cloud technology.**
 
-- ⚡ At free times **Watching anime, documentries & playing video games .**
+- ⚡ At free times **Watching anime.**
   
 - 😍 Like **exploring new technologies in different domains and areas.**
 
@@ -35,7 +35,9 @@ permalink: /Hello-World/
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://angular.io/"> Angular</a>
+    <a href="https://angular.io/"> Angular</a>
+    <a href="https://aws.amazon.com/"> AWS</a>
+
 
 </p>
 

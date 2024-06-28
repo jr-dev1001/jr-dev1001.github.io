@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻 <img src="https://tinyurl.com/3jse9uzx" width="30px">.
+title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
 published: true
 ---
 

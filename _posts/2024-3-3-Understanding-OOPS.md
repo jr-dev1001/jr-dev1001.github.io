@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Java Fundamentals Part 2 🔢! <img src="https://tinyurl.com/3jse9uzx" width="30px">
+title: Exploring Java Fundamentals Part 2 🔢!
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start Exploring Java Fundamentals A Comprehensive Guide 📖! <img src="https://tinyurl.com/3jse9uzx" width="30px">
+title: Start Exploring Java Fundamentals A Comprehensive Guide 📖!
 published: true
 ---
 <h3 align="center">My first Blog.</h3>

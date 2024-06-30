@@ -11,11 +11,11 @@ permalink: /Hello-World/
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning on **cloud technology.**
-
-- ⚡ At free times **Watching anime.**
+- 🌱 I’m currently learning on **cloud technologies.**
   
 - 😍 Like **exploring new technologies in different domains and areas.**
+
+- ⚡ At free times **Watching anime.**
 
 
 ## 🚀 Languages and Tools:
@@ -43,8 +43,11 @@ permalink: /Hello-World/
 
 
 ## Experience:
-
-- Associate Software Developer
+ Associate Software Developer
+- CognitiveBotics
+    - - Developed Angular Components using Reactive Forms and APIs involving CRUD operations in Angular.
+    - - Integrated TensorflowJS, TFLite and MediaPipe ML models in Angular and transformed Angular components into games.
+- Global Innovation HUB
     - - Contributed to POC applications and conducted research in a dynamic environment.
     - - Contributed for building customized LLMs.
     - - Created engaging Web AR games with Unity.

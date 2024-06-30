@@ -8,3 +8,4 @@ permalink: /about/
 
 <center><img src="/images/LightCode.jpeg" width="500px" height="500px"></center>
 
+<a href='https://jr-dev1001.github.io/Hello-World/'> More about me...</a>

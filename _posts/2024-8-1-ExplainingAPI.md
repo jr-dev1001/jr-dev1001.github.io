@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is an API.
+title: What is an API? 🤷‍♂️
 published: true
 ---
 

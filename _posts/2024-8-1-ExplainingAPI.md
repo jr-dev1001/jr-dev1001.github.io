@@ -28,7 +28,7 @@ Illustrator:
 
 <img src="/images/API_Ex.jpg" height="300px" width="300px">
 
-    Let's think of an example you went to a movie theatre or a multiplex to book a ticket for a movie.
+Let's think of an example you went to a movie theatre or a multiplex to book a ticket for a movie.
 1. You will go to the ticket counter and ask the clerk to book a ticket for 'God Father'at 'top row'.
 2. The clerk will check in the booking portol the if the movie you requested is available or not if available they will check the seats are available or not. 
 3. if seats are available they will book a seat.

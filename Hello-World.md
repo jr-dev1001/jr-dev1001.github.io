@@ -17,7 +17,11 @@ permalink: /Hello-World/
 
 - ⚡ At free times **Watching anime.**
 
-
+## Certificates and Badges
+<p align="left">
+  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="300"/></a>
+</p>
+    
 ## 🚀 Languages and Tools:
 
 <p align="left"> 

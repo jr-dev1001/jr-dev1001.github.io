@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hello-World
+title: Kaizoku ou ni orewa naru!
 permalink: /Hello-World/
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vamsi Surakarapu</h1>
 <h3 align="center">I'm a Computer Whiz from India.</h3>
 
+<img align="center" src="/images/prof_blog_img.jpg" width="350" height="420"/>
 
 ## 🙋‍♂️ About Me
 

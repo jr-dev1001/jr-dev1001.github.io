@@ -18,12 +18,26 @@ permalink: /Hello-World/
 - ⚡ At free times **Watching anime.**
 
 ## Certificates and Badges
-<p align="left">
-  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="200"/></a>
-</p>
-<p>
-  <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank"><img src="/images/AWS_Foundation.png" width="400" height="200"/></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank">
+        <img src="/images/THM_linux_certificate.png" width="350" height="200"/>
+      </a>
+      <br>
+      Linux Badge by Try Hack Me.
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank">
+        <img src="/images/AWS_Foundation.png" width="350" height="200"/>
+      </a>
+      <br>
+      AWS Foundation Badge by AWS Academy.
+    </td>
+  </tr>
+</table>
+
+
     
 ## 🚀 Languages and Tools:
 

@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $f0f0f0;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -135,7 +135,6 @@ img {
 .clearfix:before,
 .clearfix:after {
     content: " ";
-    backgroud : #7aa5eb;
     display: table;
 }
 
@@ -157,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid $lightGray;
   background-color: #d2b48c; //light brown color for head section
 
   @include mobile {

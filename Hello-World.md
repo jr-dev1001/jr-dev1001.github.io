@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Kaizoku ou ni orewa naru!
+title: 
 permalink: /Hello-World/
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vamsi Surakarapu</h1>
 <h3 align="center">I'm a Computer Whiz from India.</h3>
 
-<img align="center" src="/images/prof_blog_img.jpg" width="350" height="420"/>
+<p align="center">
+  <img src="/images/prof_blog_img.jpg" width="350" height="420"/>
+</p>
+
 
 ## 🙋‍♂️ About Me
 
@@ -23,14 +26,14 @@ permalink: /Hello-World/
   <tr>
     <td align="center">
       <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank">
-        <img src="/images/THM_linux_certificate.png" width="350" height="200"/>
+        <img src="/images/THM_linux_certificate.png" width="300" height="200"/>
       </a>
       <br>
       Linux Badge by Try Hack Me.
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank">
-        <img src="/images/AWS_Foundation.png" width="350" height="200"/>
+        <img src="/images/AWS_Foundation.png" width="300" height="200"/>
       </a>
       <br>
       AWS Foundation Badge by AWS Academy.

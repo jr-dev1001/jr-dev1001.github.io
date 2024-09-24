@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1040px;
   padding: 0 10px;
   width: 100%;
 }
@@ -155,10 +155,11 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 20px;
   border-bottom: 2px solid $lightGray;
-  background-color: #d2b48c; //light brown color for head section
-
+  background-color: #e0c7a6; //light brown color for head section
+  border-radius : 15px;
+	
   @include mobile {
     text-align: center;
   }

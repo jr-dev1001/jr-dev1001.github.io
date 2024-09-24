@@ -19,11 +19,10 @@ permalink: /Hello-World/
 
 ## Certificates and Badges
 <p align="left">
-  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="250"/></a>
+  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="200"/></a>
 </p>
 <p>
-  <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank"><img src="![Screenshot 2024-09-24 150023](https://github.com/user-attachments/assets/1aa66a03-d8e6-4a35-afcc-1b36366d6ffa)
-" width="400" height="250"/></a>
+  <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank"><img src="/images/AWS_Foundation.png" width="400" height="200"/></a>
 </p>
     
 ## 🚀 Languages and Tools:

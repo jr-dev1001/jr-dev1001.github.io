@@ -51,12 +51,13 @@ permalink: /Hello-World/
 
 
 ## Experience:
- Associate Consultant
+ **Associate Consultant**
  - <a href="https://www.sbpdigital.com/">SBP</a><i>  from August 2024 - Present.</i><br> 
   Developed ML models and creating workflow for entire platform in backend with Node JS.
   - - Achieved 90%+ accuracy in predicting sales quotaion success rates with ML models
-    - Created a unified API repository for ML models with a three-layer atchitecture (UI5, Flask, S4 HANA), reducing cloud operationsby 80%.
- Associate Software Developer
+    - Created a unified API repository for ML models with a three-layer atchitecture (UI5, Flask, S4 HANA), reducing cloud operationsby 80%.<br>
+
+**Associate Software Developer**
 - <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><i>  from April 2023 - July 2024.</i><br>
 - CognitiveBotics
     - - Developed Angular Components using Reactive Forms and APIs involving CRUD operations in Angular.
@@ -64,15 +65,16 @@ permalink: /Hello-World/
     - - Contributed to POC applications and conducted research in a dynamic environment.
       - Contributed for building customized LLMs.
       - Created engaging Web AR games with Unity.
-      - Developed POC architectures.
-- Software Developer Intern
-    <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub </a><i>  from October 2022 to April 2023</i><br>
-    - - Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.Innovatively crafted an Ionic              application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.
-- Software Engineer Trainee
-    <a href="https://www.strawhat.xyz/">Strawhat</a><i>  from January 2022 to July 2022</i><br>
-    Explored Blockchain technology and developed applications.
-    - - Created a crowdfunding decentrailized application (dApp) using Solana and Rust.
-      - Established automated scraping sctipts for stramlined to streamline data collection, reducing manual collection time by 5 hours per week.
+      - Developed POC architectures.<br> 
+
+ **Software Developer Intern**
+ - <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub </a><i>  from October 2022 to April 2023</i><br>
+ - - Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.<br> 
+
+ **Software Engineer Trainee**
+ - <a href="https://www.strawhat.xyz/">Strawhat</a><i>  from January 2022 to July 2022</i><br>
+ - - Created a crowdfunding decentrailized application (dApp) using Solana and Rust.
+   - Established automated scraping sctipts for stramlined to streamline data collection, reducing manual collection time by 5 hours per week.
 
 ## Education
 

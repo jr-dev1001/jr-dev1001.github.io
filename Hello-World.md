@@ -11,7 +11,7 @@ permalink: /Hello-World/
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning on **cloud technologies.**
+- 🌱 I’m currently learning on **Web3 technologies.**
   
 - 😍 Like **exploring new technologies in different domains and areas.**
 
@@ -19,12 +19,18 @@ permalink: /Hello-World/
 
 ## Certificates and Badges
 <p align="left">
-  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="300"/></a>
+  <a href="https://tryhackme.com/vamsi987/badges/terminaled" target="_blank"><img src="/images/THM_linux_certificate.png"  width="400" height="250"/></a>
+</p>
+<p>
+  <a href="https://www.credly.com/badges/1f2182a0-9b8b-4cf2-a25c-3d1c73dc5895/" target="_blank"><img src="![Screenshot 2024-09-24 150023](https://github.com/user-attachments/assets/1aa66a03-d8e6-4a35-afcc-1b36366d6ffa)
+" width="400" height="250"/></a>
 </p>
     
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+  <a style="padding-right:8px;" href="https://solana.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=icTiMgoOHSVy&format=png&color=000000"/> </a> 
+  <a style="padding-right:8px;" href="https://www.rust-lang.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
@@ -38,39 +44,39 @@ permalink: /Hello-World/
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://angular.io/"> Angular</a>
-    <a href="https://aws.amazon.com/"> AWS</a>
-
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="express" width="48" height="48"/> </a>
+  <a href="https://angular.io/"> <img width="48" height="48" src = "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"/></a>
+    <a href="https://aws.amazon.com/"> <img width="48" height="48" src = "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/></a>
 
 </p>
 
 
 ## Experience:
+ Associate Consultant
+ - <a href="https://www.sbpdigital.com/">SBP</a><i>  from August 2024 - Present.</i><br> 
+  Developed ML models and creating workflow for entire platform in backend with Node JS.
+  - - Achieved 90%+ accuracy in predicting sales quotaion success rates with ML models
+    - Created a unified API repository for ML models with a three-layer atchitecture (UI5, Flask, S4 HANA), reducing cloud operationsby 80%.
  Associate Software Developer
+- <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><i>  from April 2023 - July 2024.</i><br>
 - CognitiveBotics
     - - Developed Angular Components using Reactive Forms and APIs involving CRUD operations in Angular.
-    - - Integrated TensorflowJS, TFLite and MediaPipe ML models in Angular and transformed Angular components into games.
-- Global Innovation HUB
+      - Integrated TensorflowJS, TFLite and MediaPipe ML models in Angular and transformed Angular components into games.
     - - Contributed to POC applications and conducted research in a dynamic environment.
-    - - Contributed for building customized LLMs.
-    - - Created engaging Web AR games with Unity.
-    - - Developed POC architectures.
-    - - At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
-        from April 2023 - Present.
+      - Contributed for building customized LLMs.
+      - Created engaging Web AR games with Unity.
+      - Developed POC architectures.
 - Software Developer Intern
+    <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub </a><i>  from October 2022 to April 2023</i><br>
     - - Innovatively crafted an Ionic application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.Innovatively crafted an Ionic              application with Angular and Flask, seamlessly integrating it with Android Studios and AWS.
-    - - At <a href="https://www.globaluniversityfoundation.com/">Global Innovation Hub</a><br>
-        from October 2022 to April 2023
 - Software Engineer Trainee
-    - - I have worked on Blockchain and Machine Learning as Software Engineer Trainee at <a href="https://www.strawhat.xyz/">Strawhat</a><br>
-        from January 2022 to July 2022
-- Web Development Intern
-    - - As a new Intern worked on Frontend web development , it's a e-commerce website. <a href="https://meebuddy.com/"> Meebuddy.com</a><br>
-       from September 2021 to December 2021
+    <a href="https://www.strawhat.xyz/">Strawhat</a><i>  from January 2022 to July 2022</i><br>
+    Explored Blockchain technology and developed applications.
+    - - Created a crowdfunding decentrailized application (dApp) using Solana and Rust.
+      - Established automated scraping sctipts for stramlined to streamline data collection, reducing manual collection time by 5 hours per week.
 
 ## Education
 
-2023 Graduated from IIIT Nuzvid in CS - 8.6 CGPA...<br>
+2023 Graduated from IIIT Nuzvid in CS - 8.7 CGPA...<br>
 2017 Completed matriculation from Kendriya Vidyalaya - 10 CGPA...<br>
 

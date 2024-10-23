@@ -15,7 +15,7 @@ permalink: /Hello-World/
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning on **Web3 technologies.**
+- 🌱 I’m currently working on **Security & Web3 technologies.**
   
 - 😍 Like **exploring new technologies in different domains and areas.**
 

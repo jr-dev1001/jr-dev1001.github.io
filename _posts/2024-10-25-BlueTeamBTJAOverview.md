@@ -5,8 +5,7 @@ published: true
 ---
 
 ## Motivation
-I hope everybody have a good day. I hope everybody accomplish something significant. Even if you didn't accomplish something significant, don't be discouraged. Just aim to accomplish something significant tommorow or the next day and so on...
-RIP JUICE WRLD
+" I hope everybody have a good day. I hope everybody accomplish something significant. Even if you didn't accomplish something significant, don't be discouraged. Just aim to accomplish something significant tommorow or the next day and so on..."
 <div style="text-align:center;"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Juice_Wrld_VMAs.png/255px-Juice_Wrld_VMAs.png" alt="Juice Wrld"> 
 </div>
@@ -29,11 +28,11 @@ These introductory courses gives a headstart for cybersecurity fresher (Not only
 </p>
 
 ### Introduction to Network Analysis 🛜
-In this module you will be learning : Networking Basics, WireShark & TCPDUMP</br>
+In this module you will be learning : Networking Basics, WireShark & TCPDUMP </br>
 Challenges innvolved : analysing pcap files using wireshark and tcpdump to find malicious activity.
 
 ### Introduction to OSINT 🔍
-In this module you will be learning : Intelligence lifecycle, online tracking, Anonymization & OSINT tools.</br>
+In this module you will be learning : Intelligence lifecycle, online tracking, Anonymization & OSINT tools. </br>
 Challenges innvolved : Tracking down a hacker footprints through OSINT methods & tools.
 
 ### Introduction to Digital Forensics 👣
@@ -58,12 +57,15 @@ Challenges innvolved : WPScan analysis and Vulnerability assessment (using all t
 After Completion all six introductory courses you can go Blue Team Junior Analyst Pathway Bundle there you can find your BTJA certificate of completion and redeem it.
 
 ## Conclusion
+
   ### PROS :
+
    <li> User friendly portol</li>
    <li>Provides practical challenges and quizes</li>
    <li> Content is very basic level which good for beginners.</li>
  
   ### Cons :
+
 <li> Courseware need to be up to date. </li> 
 <li> In one of the quizes the QA feedback was failed (only for one question as it need to be update)</li>
 
